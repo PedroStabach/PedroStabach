@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou Pedro Augusto Stabach 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&multiline=true&lines=Desenvolvedor+Full-Stack;Amante+da+tecnologia+e+cultura+geek;Sempre+aprendendo+coisas+novas!" alt="Typing SVG">
@@ -10,6 +10,7 @@
 
 - 💻 Desenvolvedor apaixonado por resolver problemas com código.
 - 📚 Sempre estudando novas tecnologias e aprimorando as que já domino.
+- 🧰Desenvolvedor de frameworks NestJs e NextJs
 - ⚡ Geek, gamer, fã de cultura pop e programação hardcore.
 
 ---
@@ -25,9 +26,8 @@
 
 ## 🌐 Conecte-se comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seunick)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroStabach)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PedroStbk)    
 
 ---
 
@@ -35,8 +35,8 @@
 
 | Projeto | Descrição | Tecnologias |
 | -------- | --------- | ----------- |
-| [Projeto 1](https://github.com/seurepo) | Descrição rápida do projeto | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript) |
-| [Projeto 2](https://github.com/seurepo) | Descrição rápida do projeto | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
+| [Projeto 1](https://github.com/seurepo) | XadresJs | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript) |
+| [Projeto 2](https://github.com/seurepo) | SaveMyFood | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
 | [Projeto 3](https://github.com/seurepo) | Descrição rápida do projeto | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) |
 
 > ⚡ Em breve mais projetos incríveis aqui!
