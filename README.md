@@ -52,7 +52,7 @@
 
 ---
 <p align="center">
-  <img src="https://www.pixilart.com/art/among-those-stars-8640fe1efdb13bc?ft=topic&ft_id=23" alt="GIF" width="400" />
+  <img src="astronalta.gif" width="400" />
 </p>
 
 
