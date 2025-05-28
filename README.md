@@ -51,17 +51,8 @@
 </p>
 
 ---
-
-## 🖼️ GIF geek no final
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVp5Dkq3OGUO9K/giphy.gif" alt="Geek GIF" width="400" />
+  <img src="[https://media.giphy.com/media/3o7aCVp5Dkq3OGUO9K/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fpt-BR%2Fsearch%2Fanime-gifs&psig=AOvVaw3AKb5U_nMZ4T1aE2J0d3HX&ust=1748557759121000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICo4bSbx40DFQAAAAAdAAAAABAE)" alt="Geek GIF" width="400" />
 </p>
-
----
-
-**"Code is like humor. When you have to explain it, it’s bad."** – Cory House
-
----
 
 
