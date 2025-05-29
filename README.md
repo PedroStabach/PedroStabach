@@ -11,7 +11,7 @@
 - 💻 Desenvolvedor apaixonado por resolver problemas com código.
 - 📚 Sempre estudando novas tecnologias e aprimorando as que já domino.
 - 🧰Desenvolvedor de frameworks NestJs e NextJs
-- ⚡ Geek, gamer, fã de cultura pop e programação hardcore.
+- ⚡ Geek, gamer, fã de astronomia e programação.
 
 ---
 
@@ -36,7 +36,7 @@
 | Projeto | Descrição | Tecnologias |
 | -------- | --------- | ----------- |
 | [Projeto 1](https://github.com/seurepo) | XadresJs | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript) |
-| [Projeto 2](https://github.com/seurepo) | SaveMyFood | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
+| [Projeto 2](https://github.com/PedroStabach/saveMyFood) | SaveMyFood | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) |
 | [Projeto 3](https://github.com/seurepo) | Descrição rápida do projeto | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) |
 
 > ⚡ Em breve mais projetos incríveis aqui!
