@@ -46,8 +46,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Stats" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Streak" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight&hide_border=false&border_radius=20" alt="Top Langs" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
 
 ---
