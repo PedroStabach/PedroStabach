@@ -35,8 +35,8 @@
 
 | Projeto | Descrição | Tecnologias |
 | -------- | --------- | ----------- |
-|XadrezJs](https://github.com/seurepo) | Projeto criado para mostrar minha logica de programação, utilizando apenas Js | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript) |
-|SaveMyFood](https://github.com/PedroStabach/saveMyFood) | Cansado do desperdicio de alimentos em casa? Nossa aplicação pode salvar seus alimentos! | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) |
+|[XadrezJs](https://github.com/PedroStabach/xadrezJs) | Projeto criado para mostrar minha logica de programação, utilizando apenas Js | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript) |
+|[SaveMyFood](https://github.com/PedroStabach/saveMyFood) | Cansado do desperdicio de alimentos em casa? Nossa aplicação pode salvar seus alimentos! | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) |
 
 
 > ⚡ Em breve mais projetos incríveis aqui!
