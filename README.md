@@ -45,11 +45,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Stats" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroStabach&show_icons=true&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Stats" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Streak" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroStabach&theme=tokyonight&hide_border=false&border_radius=20" alt="GitHub Streak" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </p>
 
 <p align="center">
