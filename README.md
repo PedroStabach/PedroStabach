@@ -38,6 +38,7 @@
 |[Portfolio](https://github.com/PedroStabach/portfolio) | Meu Portfolio Atual | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) |
 |[to-do-list](https://github.com/PedroStabach/to-do-list) | Cansado do desperdicio de alimentos em casa? Nossa aplicação pode salvar seus alimentos! | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) |
 |[Surl](https://github.com/PedroStabach/Surl) | URL escalavel, urls pequenas| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) |
+|[OCR](https://github.com/PedroStabach/OCR_logistica) |OCR para renomear arquivos pdfs imagem, extracao de texto em imagem| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) |
 
 
 ---
